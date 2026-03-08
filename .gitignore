@@ -1,0 +1,4 @@
+git rm --cached .env  # (Replace .env with your file name)
+git add .
+git commit -m "Fix: Removed secrets from tracking"
+git push -u origin main
