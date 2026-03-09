@@ -3,5 +3,6 @@
   "templater-obsidian",
   "calendar",
   "gemini-scribe",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-git"
 ]
