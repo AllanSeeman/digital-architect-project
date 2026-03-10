@@ -1,5 +1,5 @@
 {
-  "apiKeySecretName": "gemini-api",
+  "apiKeySecretName": "gemini",
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
