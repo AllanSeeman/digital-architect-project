@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e19c2e57422bd69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "493f07423f975198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525cb1d75978baab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d78728d7165ff7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1e8499d302cc65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121d0af537b4206b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ab0a59abc60cdc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2be54b3831381fe5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d232e09dd9aad09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ded0d998f75874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d388f5c2b90dccfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b63b8eced74c4d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a1868a16f0672672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54aac78dfa473fb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "510063cca8b442f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
+    }
+  },
+  "active": "525cb1d75978baab",
+  "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/skills",
+    "gemini-scribe",
+    "Allan Main/Sync test 2 03-09-2026.md",
+    "Allan Main/000 SYNC TEST - MONDAY NIGHT.md",
+    "Allan Main/Test Push and Pull.md",
+    "Allan Main/The Terminal Routine.md",
+    "Allan Main/gemini-scribe/Prompts/Template - Expert.md",
+    "Allan Main/Sync test 03-09-2026.md",
+    "Allan Main/Git Token.md",
+    "Allan Main/40 - Templates/Template - Client Dashboard.md",
+    "Allan Main/20 - Projects/40 Memorial Day Flowers Foundation/00 Dashboard - MDFF.md",
+    "Allan Main/20 - Projects/40 Memorial Day Flowers Foundation",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/20 Design Elements.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/15 Open Door.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/14 the Vault.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/12 Pathways.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/11 Empathetic About.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/10 Hero Prototype.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching/00 Dashboard - Marcia May Coaching.md",
+    "Allan Main/20 - Projects/30 Marcia May Coaching",
+    "Allan Main/20 - Projects/20 With You International/Drawing 2026-03-09 14.28.05.excalidraw.md",
+    "Allan Main/20 - Projects/20 With You International/Canvas Test.canvas",
+    "Allan Main/20 - Projects/20 With You International/00 Dashboard - With You International.md",
+    "Allan Main/20 - Projects/20 With You International",
+    "Allan Main/20 - Projects/10 EFC Quito/02 - Sermon Notes/Transcript - 03-01-0-2026 - Where is the God of Justice.md",
+    "Allan Main/20 - Projects/10 EFC Quito/02 - Sermon Notes/Sermon - 03-01-0-2026 - Where is the God of Justice.md",
+    "Allan Main/20 - Projects/10 EFC Quito/01 - Transcripts (Original PDF)/03-01-2026 - Malachi 3 Sermon.pdf",
+    "Allan Main/20 - Projects/10 EFC Quito/SOP - Sermon Content Processing.md",
+    "Allan Main/20 - Projects/10 EFC Quito/EFC - Sermon Repurposing Dashboard.md",
+    "Allan Main/20 - Projects/10 EFC Quito/02 - Sermon Notes",
+    "Allan Main/20 - Projects/10 EFC Quito/01 - Transcripts (Original PDF)",
+    "Allan Main/20 - Projects/10 EFC Quito/00 Dashboard - EFC Quito.md",
+    "Allan Main/20 - Projects/10 EFC Quito",
+    "Allan Main/20 - Projects/00 Allan Seeman/30 Meeting Notes Index - Allan Seeman.md",
+    "Allan Main/20 - Projects/00 Allan Seeman/20 Content Map - Allan Seeman.md"
+  ]
+}
