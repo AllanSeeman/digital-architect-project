@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "90 - System/Attachements",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

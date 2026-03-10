@@ -1,8 +1,10 @@
 [
   "terminal",
   "templater-obsidian",
-  "calendar",
   "gemini-scribe",
   "obsidian-local-rest-api",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-custom-frames",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin"
 ]
