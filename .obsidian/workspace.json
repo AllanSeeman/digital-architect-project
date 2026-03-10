@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "0ea539098bbf6e3d",
+            "id": "08e89b1fb995421e",
             "type": "leaf",
             "state": {
               "type": "gemini-agent-view",
@@ -188,7 +188,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0ea539098bbf6e3d",
+  "active": "08e89b1fb995421e",
   "lastOpenFiles": [
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts/example-expert.md",
