@@ -1,12 +1,12 @@
 {
   "apiKeySecretName": "gemini-api",
-  "chatModelName": "gemini-flash-lite-latest",
-  "summaryModelName": "gemini-flash-lite-latest",
+  "chatModelName": "gemini-flash-latest",
+  "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
   "imageModelName": "gemini-2.5-flash-image",
   "summaryFrontmatterKey": "summary",
-  "userName": "Allan",
-  "chatHistory": true,
+  "userName": "User",
+  "chatHistory": false,
   "historyFolder": "gemini-scribe",
   "debugMode": false,
   "maxRetries": 3,
@@ -15,7 +15,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1773131662976,
+    "lastUpdate": 1773133118678,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
