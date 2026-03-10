@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0ea539098bbf6e3d",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +188,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "525cb1d75978baab",
+  "active": "0ea539098bbf6e3d",
   "lastOpenFiles": [
+    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Prompts",
     "gemini-scribe/skills",
@@ -215,7 +226,6 @@
     "Allan Main/20 - Projects/10 EFC Quito/01 - Transcripts (Original PDF)",
     "Allan Main/20 - Projects/10 EFC Quito/00 Dashboard - EFC Quito.md",
     "Allan Main/20 - Projects/10 EFC Quito",
-    "Allan Main/20 - Projects/00 Allan Seeman/30 Meeting Notes Index - Allan Seeman.md",
-    "Allan Main/20 - Projects/00 Allan Seeman/20 Content Map - Allan Seeman.md"
+    "Allan Main/20 - Projects/00 Allan Seeman/30 Meeting Notes Index - Allan Seeman.md"
   ]
 }
