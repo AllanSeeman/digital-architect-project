@@ -11,10 +11,14 @@
             "id": "4219782b51a28a46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Allan Main/The Terminal Routine.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Terminal Routine"
             }
           }
         ]
@@ -188,8 +192,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "f896e4f62024a0d7",
+  "active": "4219782b51a28a46",
   "lastOpenFiles": [
+    "Allan Main/40 - Templates/Sermon Selector.md",
+    "Allan Main/40 - Templates/Template - Client Dashboard.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Prompts",
@@ -202,7 +208,6 @@
     "Allan Main/gemini-scribe/Prompts/Template - Expert.md",
     "Allan Main/Sync test 03-09-2026.md",
     "Allan Main/Git Token.md",
-    "Allan Main/40 - Templates/Template - Client Dashboard.md",
     "Allan Main/20 - Projects/40 Memorial Day Flowers Foundation/00 Dashboard - MDFF.md",
     "Allan Main/20 - Projects/40 Memorial Day Flowers Foundation",
     "Allan Main/20 - Projects/30 Marcia May Coaching/20 Design Elements.md",
@@ -225,7 +230,6 @@
     "Allan Main/20 - Projects/10 EFC Quito/02 - Sermon Notes",
     "Allan Main/20 - Projects/10 EFC Quito/01 - Transcripts (Original PDF)",
     "Allan Main/20 - Projects/10 EFC Quito/00 Dashboard - EFC Quito.md",
-    "Allan Main/20 - Projects/10 EFC Quito",
     "Allan Main/20 - Projects/00 Allan Seeman/30 Meeting Notes Index - Allan Seeman.md"
   ]
 }
